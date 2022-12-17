@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    >
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginLeft="11dp"
+        android:layout_marginRight="11dp"
+        android:layout_marginBottom="7dp"
+        android:layout_marginTop="7dp"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="10dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="88dp"
+                android:layout_height="88dp"
+                android:id="@+id/sushiImage"
+                android:layout_marginTop="4dp"
+                android:src="@drawable/sushisaumon"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text=""
+                android:textSize="12sp"
+                android:layout_marginRight="12dp"
+                android:layout_below="@+id/sushiName"
+                android:layout_marginLeft="12dp"
+                android:id="@+id/description"
+                android:layout_toRightOf="@id/sushiImage"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="5dp"
+                android:id="@+id/sushiName"
+                android:textStyle="italic"
+                android:textSize="26sp"
+                android:layout_toRightOf="@+id/sushiImage"
+                tools:text="Sushi saumon"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/description"
+                android:layout_toRightOf="@+id/sushiImage"
+                android:id="@+id/clickheretoorder"
+                android:layout_marginTop="4dp"
+                android:layout_marginLeft="12dp"
+                tools:text="Click to order"/>
+
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">AppProject1</string>
+    <string name="sushi_saumon">saumon enroulé dans du riz vinaigré et une feuille d’algue</string>
+
+    <string name="sushi_thon">Canapé de riz recouvert de thon </string>
+
+    <string name="sushi_chesse">fromage enroulé dans du riz vinaigré et une feuille d’algue</string>
+
+    <string name="sushi_crevettes">Deguster notre Canapé de riz recouvert d’une crevette </string>
+
+    <string name="sushi_avocat">avocat enroulé dans du riz vinaigré et une feuille d’algue</string>
+
+    <string name="sushi_omlette">omlette enroulé dans du riz vinaigré et une feuille d’algue</string>
+
+    <string name="sushi_surimi">Surimi enroulé dans du riz vinaigré et une feuille d’algue </string>
+
+    <string name="sushi_daurade">riz assaisonné de vinaigre de riz et surmonté dune lamelle de daurade cru</string>
+
+    <string name="sushi_maquereau">maquereau enroulé dans du riz vinaigré et une feuille d’algue</string>
+
+    <string name="sushi_anguille">une fine tranche anguille caramélisé posée sur un canapé de riz vinaigré</string>
+
+    <string name="maki_cheese">Canapé de riz recouvert de fromage</string>
+
+    <string name="maki_concombre">Canapé de riz enroulé d’une fine lamelle de concombre et recouvert de fromage</string>
+
+    <string name="maki_saumon">Deguster notre Saumon enroulé dans du riz vinaigré et une feuille d’algue </string>
+
+    <string name="maki_thon">Thon enroulé dans du riz vinaigré et une feuille d’algue </string>
+
+    <string name="maki_radis_jaune">radis_jaune enroulé dans du riz vinaigré et une feuille d’algue </string>
+
+    <string name="maki_avocat">Avocat enroulé dans du riz vinaigré et une feuille d’algue </string>
+
+    <string name="california_avocat_crevette">Crevettes et avocats enroulés dans une feuille d’algue et riz vinaigré à l’extérieur</string>
+
+    <string name="california_avocat_saumon">Saumon et avocat enroulés dans une feuille d’algue et riz vinaigré à l’extérieur </string>
+
+    <string name="california_avocat_thon">Thon cru et avocat enroulés dans une feuille d’algue et riz vinaigré à l’extérieur</string>
+
+    <string name="california_avocat_thon_cuit">Thon cuit et avocat enroulés dans une feuille d’algue et riz vinaigré à l’extérieur</string>
+
+    <string name="california_avocat_surimi">Surimi et avocats enroulés dans une feuille d’algue et riz vinaigré à l’extérieur</string>
+
+    <string name="Crousti_Maki_avocat_concombre">oignons frits à l’extérieur fourrées d’une feuille d’algue avec avocat et du concombre</string>
+    <string name="Crousti_Maki_avocat_saumon"> oignons frits à l’extérieur fourrées d’une feuille d’algue avec du saumon et de l’avocat</string>
+    <string name="Crousti_Maki_cheese_saumon">oignons frits à l’extérieur fourrées d’une feuille d’algue avec du fromage kiri et du saumon</string>
+    <string name="Crousti_Maki_avocat_thon_cuit"> oignons frits à l’extérieur fourrées d’une feuille d’algue avec du thon cuit et de l’avocat</string>
+
+    <string name="yakitori_boeuf"> brochettes de boulettes de boeuf</string>
+    <string name="yakitori_boeuf_fromage">brochettes de bœuf au fromage</string>
+    <string name="yakitori_poulet">brochettes de poulet</string>
+    <string name="yakitori_boulettes_poulet"> brochettes de boulettes de poulet</string>
+    <string name="yakitori_gambs">brochettes de gambas grillées</string>
+    <string name="yakitori_thon">brochettes de thon</string>
+
+    <string name="sashimi_thon">tranches de thon cru</string>
+    <string name="sashimi_maquereau">tranches de maquereau marinés</string>
+    <string name="sashimi_saumon">tranches de saumon cru</string>
+    <string name="sashimi_daurade">tranches de daurade cru </string>
+    <string name="sashimi_assortiment">tranches de thon cru, tranches de saumon cru, tranches de daurade cru et tranches de maquereau marinés</string>
+
+    <string name="saumon_roll_cheese">bouchées de riz enroulée d’une fine tranche de saumon fourrées de fromage</string>
+    <string name="saumon_roll_avocat">bouchées de riz enroulée d’une fine tranche de saumon fourrées de avocat</string>
+    <string name="saumon_roll_cheese_saumon">bouchées de riz enroulée d’une fine tranche de saumon fourrées de saumon fromage</string>
+    <string name="saumon_roll_thon">bouchées de riz enroulée d’une fine tranche de saumon fourrées de thon</string>
+
+    <string name="printemps_roll_avocat_saumon">   riz et de salade à l’extérieur fourrées de saumon et d’avocat</string>
+    <string name="printemps_roll_avocat_crevettes">  riz et de salade à l’extérieur fourrées de crevette et d’avocat</string>
+    <string name="printemps_roll_avocat_saumon_thon">  riz et de salade à l’extérieur fourrées de thon,avocat,saumon</string>
+    <string name="printemps_roll_avocat_concombre"> riz et de salade à l’extérieur fourrées de concombre et d’avocat</string>
+
+    <string name="Temaki_avocat_saumon"> riz vinaigré garni avec du saumon et de l’avocat, parsemé de sésame</string>
+    <string name="Temaki_avocat_saumon_thon"> riz vinaigré garni avec du saumon ,avocat,thon parsemé de sésame</string>
+    <string name="Temaki_avocat_thon">riz vinaigré garni avec du avocat,thon parsemé de sésame</string>
+</resources>
